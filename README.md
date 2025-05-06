@@ -14,5 +14,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thomas-yemo-ofori&show_icons=true&locale=en&layout=compact" alt="thomas-yemo-ofori" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomas-yemo-ofori&show_icons=true&locale=en" alt="thomas-yemo-ofori" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thomas-yemo-ofori&" alt="thomas-yemo-ofori" /></p>

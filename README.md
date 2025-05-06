@@ -5,10 +5,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nii_yemo_ofori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nii_yemo_ofori" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thomas yemo ofori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas yemo ofori" height="30" width="40" /></a>
-<a href="https://fb.com/thomasofori74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thomasofori74" height="30" width="40" /></a>
-<a href="https://instagram.com/ofori_thomas_yemo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ofori_thomas_yemo" height="30" width="40" /></a>
 <a href="https://medium.com/@thomasofori74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thomasofori74" height="30" width="40" /></a>
 </p>
 
